@@ -64,13 +64,6 @@ Feel free to reach out or collaborate:
 
 ---
 
-### 🚀 Selected Projects (Pin them below on GitHub!)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-
----
-
 <p align="center">
   💙 Thank you for visiting my profile. Let’s build something meaningful together!
 </p>
