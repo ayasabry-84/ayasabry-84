@@ -13,10 +13,6 @@ I'm currently a learner in the **ALX Software Engineering** and **ProDev AI** pr
 
 I started this journey because I believe in **technology that makes a difference**—solutions that **empower underserved communities**, **enhance access to education & healthcare**, **automate tedious workflows**, and **make everyday tools smarter with AI**.
 
-> “I’m stepping into four months of deep focus, challenge, and growth.  
-> I see a future version of myself—confident, capable, and ready to build and lead.  
-> This is not just the beginning of a program. It’s the beginning of everything I’ve been working toward.”  
-
 ---
 
 ### 🔧 Tech Stack & Tools
